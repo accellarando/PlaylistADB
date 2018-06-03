@@ -20,8 +20,4 @@ It relies on Android Debug Bridge (ADB), which is packaged with the Android SDK.
 4. Enjoy!
 
 ## To do
-  * Read arguments from command line
-  * Automatic mode - iterates through every playlist file in directory automatically
-  * Make new directory with same name as playlist for each file
-  * Organize code
-  * Pretend this took longer than fifteen minutes to make
+  * Test and debug I guess
